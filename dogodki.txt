@@ -1,0 +1,28 @@
+2021-04-19T11:07:29.871986400: ne najde datoteke z ustanovami - ZAZNAMEK
+2021-04-19T11:07:29.877177800: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T11:07:29.877793900: ne najde datoteke s cepilnimi centri - ZAZNAMEK
+2021-04-19T11:07:29.879250500: sortiranje ustanov po nazivih je uspesno - OPOZORILO
+2021-04-19T11:07:29.880253100: ne najde datoteke z ambulantami - OPOZORILO
+2021-04-19T11:07:29.881251900: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T11:08:41.415348: uspesno ste dodali cepilnicenter - ZAZNAMEK
+2021-04-19T11:08:41.416346: uspesno ste dodali ustanovo - ZAZNAMEK
+2021-04-19T11:38:04.290969500: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T11:38:04.300560200: sortiranje ustanov po nazivih je uspesno - OPOZORILO
+2021-04-19T11:38:04.303511600: ne najde datoteke z ambulantami - OPOZORILO
+2021-04-19T11:38:04.307381800: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T18:48:26.510831: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T18:48:26.516622900: sortiranje ustanov po nazivih je uspesno - OPOZORILO
+2021-04-19T18:48:26.516622900: ne najde datoteke z ambulantami - OPOZORILO
+2021-04-19T18:48:26.519775400: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T18:49:00.679479500: uspesno ste dodali cepilnicenter - ZAZNAMEK
+2021-04-19T18:49:00.679479500: uspesno ste dodali ustanovo - ZAZNAMEK
+2021-04-19T18:49:06.428658900: uspesno ste dodali cepivo v cepilni center - ZAZNAMEK
+2021-04-19T18:49:09.025606800: uspesno ste dodali cepivo v cepilni center - ZAZNAMEK
+2021-04-19T18:56:05.320075400: uspesno ste dodali ambulanto - ZAZNAMEK
+2021-04-19T18:56:05.320075400: uspesno ste dodali ustanovo - ZAZNAMEK
+2021-04-19T18:56:11.238620700: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T18:56:11.238620700: sortiranje ustanov po nazivih je uspesno - OPOZORILO
+2021-04-19T18:56:11.238620700: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T19:08:20.664290800: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
+2021-04-19T19:08:20.664290800: sortiranje ustanov po nazivih je uspesno - OPOZORILO
+2021-04-19T19:08:20.664290800: sortiranje ustanov po nazivih je uspesno - ZAZNAMEK
